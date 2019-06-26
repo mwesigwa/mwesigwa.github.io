@@ -48,6 +48,9 @@ h1, h2, h3{
 
 li{
   list-style-type: none;
+  -webkit-hyphens: none;
+  -moz-hyphens: none;
+  hyphens: none;
 }
 
 a{
